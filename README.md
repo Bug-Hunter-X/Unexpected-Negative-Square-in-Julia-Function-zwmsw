@@ -1,0 +1,3 @@
+# Unexpected Negative Square in Julia Function
+
+This repository showcases a subtle bug in a Julia function that calculates the square of a number. The function unexpectedly returns a negative value for negative inputs. The bug and its solution are described in the `bug.jl` and `bugSolution.jl` files respectively.  This example highlights potential issues when working with negative numbers and the importance of careful mathematical operations in Julia.
